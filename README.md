@@ -1,7 +1,5 @@
 # Electric-Vehicle-Data-Analysis
 This repository contains an in-depth analysis of electric vehicle (EV) data, leveraging data visualization and statistical techniques to uncover trends, insights, and patterns. The project explores various aspects such as EV adoption rates, battery performance, charging infrastructure, and market trends.
-Based on the image, here’s a suitable **README** description for your **Electric Vehicle Data Analysis** project:
-
 # **Electric Vehicle Data Analysis (Interactive Dashboard using Tableau)**  
 
 ## **Project Objective**  
@@ -30,7 +28,7 @@ This project provides a **comprehensive analysis** of electric vehicle (EV) adop
 - **Most Popular EV Model:** **Tesla Model (28,502 vehicles, ~18.95%)**  
 
 ## **Dashboard Interaction**  
-🔗 **View Dashboard** – Screenshot 2025-06-10 231141.png Interactive Tableau dashboard with filters for dynamic analysis.  
+ **View Dashboard** – Screenshot 2025-06-10 231141.png   
 
 ## **Process**  
 1. **Data Cleaning & Verification** – Handling missing values and anomalies.  
